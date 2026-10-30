@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Window mark">
+  <rect width="64" height="64" rx="8" fill="#f4efe7"/>
+  <path d="M13 11h38v42H13zM32 11v42M13 32h38" fill="none" stroke="#262321" stroke-width="4"/>
+  <circle cx="44" cy="20" r="5" fill="#6c2431"/>
+</svg>
